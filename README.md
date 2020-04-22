@@ -10,3 +10,11 @@ In this module we will cover the basics of automated testing and use `jest` to w
 - [ ] **CD into the folder** where you cloned **your fork**.
 
 Please follow along as the instructor uses _Test Driven Development (TDD)_ to implement the `add()` feature of a simple `calculator`.
+
+## Requirements
+
+- a user should have a username and a password
+- a user should have an `isAdmin` property that should be true/false;
+- the username should be at least 2 characters long
+
+### Testing Middleware
